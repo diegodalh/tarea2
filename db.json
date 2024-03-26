@@ -3,22 +3,26 @@
         {
             "Id": 1,
             "Descripcion": "Mouse",
-            "Precio": "30.00"
+            "Precio": "30.00",
+            "Imagen": "https://www.ecured.cu/images/8/81/Lulululu.jpg"
         },
         {
             "Id": 2,
             "Descripcion": "Mouse",
-            "Precio": "30.00"   
+            "Precio": "30.00",
+            "Imagen": "https://www.ecured.cu/images/8/81/Lulululu.jpg"   
         },
         {
             "Id": 3,
             "Descripcion": "Pantalla",
-            "Precio": "30.00"
+            "Precio": "30.00",
+            "Imagen": "https://www.ecured.cu/images/8/81/Lulululu.jpg"
         },
         {
             "Id": 4,
             "Descripcion": "Memoria RAM",
-            "Precio": "30.00"
+            "Precio": "30.00",
+            "Imagen": "https://www.ecured.cu/images/8/81/Lulululu.jpg"
         }
     ]
 
